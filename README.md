@@ -1,6 +1,8 @@
 # StatiQuest — Petualangan Mean, Median, Modus
 
-> Nama kerja (*working title*). Boleh diganti.
+> shadine ahdania sofyan
+> 2225250205
+> 3B
 
 Aplikasi belajar statistika dasar (mean, median, modus) untuk siswa SMP kelas VIII–IX, berjalan di **web (PWA)** dan **Android (APK)**. Aplikasi ini dirancang dari hasil wawancara siswa (beban kognitif) dan diarahkan untuk mengembangkan **literasi matematika**.
 
